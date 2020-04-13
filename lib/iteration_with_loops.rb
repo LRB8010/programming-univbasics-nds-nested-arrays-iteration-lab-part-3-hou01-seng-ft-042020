@@ -15,5 +15,3 @@ def join_nested_strings(src)
   end
   outer_results
 end
-
-  
