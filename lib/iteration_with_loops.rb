@@ -13,4 +13,5 @@ def join_nested_strings(src)
     row_index += 1
   end
   outer_results
+  binding.pry
 end
